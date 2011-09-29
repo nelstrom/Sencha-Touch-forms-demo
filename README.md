@@ -1,3 +1,9 @@
+## THIS REPOSITORY HAS MOVED
+
+Please visit [https://github.com/senchalearn/Forms-demo][] for the most up to date version.
+
+I'll keep this repository around here for the sake of posterity.
+
 ## Using this repository to follow the screencast
 
 First, you'll have to clone this repository:
