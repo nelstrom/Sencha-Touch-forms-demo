@@ -1,6 +1,6 @@
 ## THIS REPOSITORY HAS MOVED
 
-Please visit [https://github.com/senchalearn/Forms-demo][] for the most up to date version.
+Please visit https://github.com/senchalearn/Forms-demo for the most up to date version.
 
 I'll keep this repository around here for the sake of posterity.
 
